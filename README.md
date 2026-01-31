@@ -7,6 +7,12 @@ A lightweight Python script that transforms images into stylized ASCII art using
 * **Aspect Ratio Correction**: Automatically compensates for the vertical stretch of text characters to maintain the original image proportions.
 * **File Export**: Saves the final result directly to a `.txt` file for easy sharing.
 
+## 🖼️ Screenshots
+|    Original Image     |            ASCII Art Result             |
+|:---------------------:|:---------------------------------------:|
+| ![Original](anya.PNG) | ![ASCII Art](anya-ascii-screenshot.PNG) |
+> *Note: Replace the placeholders above with your own screenshots!*
+
 ## 🛠️ Prerequisites
 You will need `Python 3.x` and the following libraries:
 * **Pillow**: For image processing.
