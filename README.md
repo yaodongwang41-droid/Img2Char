@@ -10,9 +10,7 @@ A lightweight Python script that transforms images into stylized ASCII art using
 ## 🖼️ Screenshots
 |    Original Image     |            ASCII Art Result             |
 |:---------------------:|:---------------------------------------:|
-| ![Original](<img src="anya.PNG" width="300" />
-) | ![ASCII Art](<img src="anya-ascii-screenshot.PNG" width="300" />
-) |
+| ![Original](anya.PNG = 600x314) | ![ASCII Art](anya-ascii-screenshot.PNG = 663x314) |
 > *Note: Replace the placeholders above with your own screenshots!*
 
 ## 🛠️ Prerequisites
@@ -51,4 +49,3 @@ You can easily tweak the output by modifying these variables:
 * **chars**: Change the character string to use different symbols. The order represents the gradient from dark to light.
 
 * **0.45**: The scale factor used to balance character width vs. height (since characters are usually taller than they are wide).
-
