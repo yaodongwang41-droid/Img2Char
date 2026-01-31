@@ -12,11 +12,11 @@ A lightweight Python script that transforms images into stylized ASCII art using
 |:---------------------:|:---------------------------------------:|
 <table>
 <tr>
-<td>
+<td style="vertical-align: top;">
 <img src="anya.PNG" alt="Original" height="314">
 </td>
-<td>
-<img src="anya-ascii-screenshot.PNG" alt="ASCII Art" height="314">
+<td style="vertical-align: top;">
+<img src="anya-ascii-screenshot.PNG" alt="ASCII Art Result" height="314">
 </td>
 </tr>
 </table>
@@ -58,5 +58,6 @@ You can easily tweak the output by modifying these variables:
 * **chars**: Change the character string to use different symbols. The order represents the gradient from dark to light.
 
 * **0.45**: The scale factor used to balance character width vs. height (since characters are usually taller than they are wide).
+
 
 
