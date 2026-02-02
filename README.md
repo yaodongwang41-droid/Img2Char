@@ -57,7 +57,8 @@ You can easily tweak the output by modifying these variables:
 
 * **chars**: Change the character string to use different symbols. The order represents the gradient from dark to light.
 
-* **0.45**: The scale factor used to balance character width vs. height (since characters are usually taller than they are wide).
+* **flatness**: The aspect ratio scale factor is used to balance character width and height (offsetting the fact that characters are typically taller than they are wide). Default is 0.45; decreasing this value results in a flatter output.
+
 
 
 
